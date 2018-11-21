@@ -1,2 +1,4 @@
 // -- test.txt 
 this is a repository clone for github.
+
+在远程仓库直接编辑--
