@@ -2,3 +2,4 @@
 this is a repository clone for github.
 
 在远程仓库直接编辑--
+如何同步到本地
