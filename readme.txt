@@ -6,3 +6,7 @@ git pull command test!
 //远程Github git pull
 
 11-22，安装ubuntu版vscode，测试github同步
+
+//上一行修改自github，本行vscode编辑器修改
+
+vscode的修改无法提交远程github？
