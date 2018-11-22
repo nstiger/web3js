@@ -10,3 +10,5 @@ git pull command test!
 //上一行修改自github，本行vscode编辑器修改
 
 vscode的修改无法提交远程github？
+
+vscode与本地仓库同步
